@@ -5,7 +5,7 @@
 
 在原始文件中，以"-origin.csv"结尾的为原始采集数据，以"-filtered-xxHz.csv"为经过Kilster仪器自带的滤波器滤波产生的原始数据，"xx"表示滤波器的截止频率。
 
-比如，[7-filtered-60Hz](./7-filtered-60Hz) 代表第7组实验(实验参数可见报告),数据经过原始滤波，截止频率为 60Hz。
+比如，[7-filtered-60Hz](./7-filtered-60Hz.csv) 代表第7组实验(实验参数可见报告),数据经过原始滤波，截止频率为 60Hz。
 
 在单独力文件中，有 ![](https://latex.codecogs.com/svg.image?&space;27(3\times9)) 张图，分别为不同正交实验条件下3个方向力的数据。受力作图文件是整合结果。
 
