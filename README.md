@@ -1,7 +1,7 @@
 # ME3221--测试原理与技术大作业
 ## 滤波器实验代码
 ### by 董前程 庞博 吴欣怡 赵四维
-### School of Mechanic Engineering , SJTU
+### School of Mechanical Engineering , SJTU
 
 在原始文件中，以"-origin.csv"结尾的为原始采集数据，以"-filtered-xxHz.csv"为经过Kilster仪器自带的滤波器滤波产生的原始数据，"xx"表示滤波器的截止频率。
 
