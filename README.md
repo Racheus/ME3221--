@@ -1,6 +1,6 @@
 # ME3221--测试原理与技术大作业
-## 滤波器实验代码
 ### by 董前程 庞博 吴欣怡 赵四维
+### 2023-2024-1 Autumn © Team 7 地表最强测试原理打工人
 ### School of Mechanical Engineering , SJTU
 
 在原始文件中，以"-origin.csv"结尾的为原始采集数据，以"-filtered-xxHz.csv"为经过Kilster仪器自带的滤波器滤波产生的原始数据，"xx"表示滤波器的截止频率。
@@ -13,7 +13,12 @@
 
 在[orthogonal_plot.py](./orthogonal_plot.py)中是对正交实验结果图的绘制。
 
+传感器原理参考文件[KilsterSensor.pdf](./KilsterSensor.pdf),里面介绍了实验所用压电传感器的基本参数。
+
+另外，正交实验数据参见[这里](https://spssau.com/shareresults.html?shareResult=8C4C9CFBE72B05543C1CD97DCEB86D4D) ，其中的1276-1278为细节分析。
+
 ---
 指导老师：孙方宏
+
 Thank you for your watching!
 
